@@ -4,8 +4,9 @@ What if your system could understand not just *what* users say…
 but *how they feel*?
 
 Welcome to **Face Emotion Recognition** — the next wave of AI 🚀
+<img width="801" height="600" alt="Screenshot 2026-03-22 124750" src="https://github.com/user-attachments/assets/8369c3a3-f6bc-4bf3-9e85-3fe379a09410" />
 
----
+Demo - https://youtu.be/0ng1x-B30YY
 
 🧠 Humans naturally read emotions.
 Now with AI, machines can do it too.
