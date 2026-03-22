@@ -1,5 +1,7 @@
 😳 **AI Can Now Read Your Emotions… in Real-Time. Are You Ready for This?**
 
+<img width="928" height="1152" alt="MuruganGeeks_facial_emotion_recongnition_AI" src="https://github.com/user-attachments/assets/cb70b0e6-8953-4e58-819b-6216b844c42a" />
+
 What if your system could understand not just *what* users say…
 but *how they feel*?
 
